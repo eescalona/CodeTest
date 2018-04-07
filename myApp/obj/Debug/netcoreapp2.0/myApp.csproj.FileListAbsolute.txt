@@ -1,0 +1,20 @@
+C:\Users\Ernes\Documents\CV\Pruebas\BCS Consulting - Test\myApp\bin\Debug\netcoreapp2.0\myApp.deps.json
+C:\Users\Ernes\Documents\CV\Pruebas\BCS Consulting - Test\myApp\bin\Debug\netcoreapp2.0\myApp.runtimeconfig.json
+C:\Users\Ernes\Documents\CV\Pruebas\BCS Consulting - Test\myApp\bin\Debug\netcoreapp2.0\myApp.runtimeconfig.dev.json
+C:\Users\Ernes\Documents\CV\Pruebas\BCS Consulting - Test\myApp\bin\Debug\netcoreapp2.0\myApp.dll
+C:\Users\Ernes\Documents\CV\Pruebas\BCS Consulting - Test\myApp\bin\Debug\netcoreapp2.0\myApp.pdb
+C:\Users\Ernes\Documents\CV\Pruebas\BCS Consulting - Test\myApp\obj\Debug\netcoreapp2.0\myApp.csproj.CoreCompileInputs.cache
+C:\Users\Ernes\Documents\CV\Pruebas\BCS Consulting - Test\myApp\obj\Debug\netcoreapp2.0\myApp.AssemblyInfoInputs.cache
+C:\Users\Ernes\Documents\CV\Pruebas\BCS Consulting - Test\myApp\obj\Debug\netcoreapp2.0\myApp.AssemblyInfo.cs
+C:\Users\Ernes\Documents\CV\Pruebas\BCS Consulting - Test\myApp\obj\Debug\netcoreapp2.0\myApp.dll
+C:\Users\Ernes\Documents\CV\Pruebas\BCS Consulting - Test\myApp\obj\Debug\netcoreapp2.0\myApp.pdb
+C:\Users\Ernes\Documents\CV\Pruebas\BCS Consulting\CodeTest\myApp\bin\Debug\netcoreapp2.0\myApp.deps.json
+C:\Users\Ernes\Documents\CV\Pruebas\BCS Consulting\CodeTest\myApp\bin\Debug\netcoreapp2.0\myApp.runtimeconfig.json
+C:\Users\Ernes\Documents\CV\Pruebas\BCS Consulting\CodeTest\myApp\bin\Debug\netcoreapp2.0\myApp.runtimeconfig.dev.json
+C:\Users\Ernes\Documents\CV\Pruebas\BCS Consulting\CodeTest\myApp\bin\Debug\netcoreapp2.0\myApp.dll
+C:\Users\Ernes\Documents\CV\Pruebas\BCS Consulting\CodeTest\myApp\bin\Debug\netcoreapp2.0\myApp.pdb
+C:\Users\Ernes\Documents\CV\Pruebas\BCS Consulting\CodeTest\myApp\obj\Debug\netcoreapp2.0\myApp.csproj.CoreCompileInputs.cache
+C:\Users\Ernes\Documents\CV\Pruebas\BCS Consulting\CodeTest\myApp\obj\Debug\netcoreapp2.0\myApp.AssemblyInfoInputs.cache
+C:\Users\Ernes\Documents\CV\Pruebas\BCS Consulting\CodeTest\myApp\obj\Debug\netcoreapp2.0\myApp.AssemblyInfo.cs
+C:\Users\Ernes\Documents\CV\Pruebas\BCS Consulting\CodeTest\myApp\obj\Debug\netcoreapp2.0\myApp.dll
+C:\Users\Ernes\Documents\CV\Pruebas\BCS Consulting\CodeTest\myApp\obj\Debug\netcoreapp2.0\myApp.pdb
